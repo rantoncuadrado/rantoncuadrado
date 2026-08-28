@@ -17,14 +17,6 @@ I work with people data, analytics, and data products, usually in distributed te
 - Analytics Enablement
 - Remote leadership and learning
 
-## Selected work
-
-- [Remote Frog](https://remotefrog.com)
-- [obsidian-dictation](https://github.com/rantoncuadrado/obsidian-dictation)
-- [email-mentioned](https://github.com/rantoncuadrado/email-mentioned)
-- [udacity_p4_datalakes](https://github.com/rantoncuadrado/udacity_p4_datalakes)
-- [datasharing](https://github.com/rantoncuadrado/datasharing)
-
 ## Links
 
 - GitHub: [rantoncuadrado](https://github.com/rantoncuadrado)
